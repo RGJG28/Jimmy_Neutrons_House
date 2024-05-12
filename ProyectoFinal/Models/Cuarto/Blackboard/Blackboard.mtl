@@ -1,0 +1,79 @@
+newmtl Blackboard:BlackBoardBase
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd Board_Wood_Normal.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 20.00
+newmtl Blackboard:Blue_Chalk
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd tizaMorada.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 20.00
+newmtl Blackboard:Board_Mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd Pizarron.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 20.00
+newmtl Blackboard:Board_Wood_Mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd Wood_Board.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 20.00
+newmtl Blackboard:EraserUp
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd borradorA.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 20.00
+newmtl Blackboard:GreenChalk
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd tizaRoja.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 20.00
+newmtl Blackboard:RedChalk
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd tizaRoja.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 20.00
+newmtl Blackboard:WhiteChalk
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd tizaAzul.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 20.00
+newmtl Blackboard:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd metal.png
+Ni 1.00

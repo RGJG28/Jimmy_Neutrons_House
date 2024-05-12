@@ -1,0 +1,40 @@
+newmtl window:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl window:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.PNG
+Ni 1.00
+newmtl window:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pilarVerde.PNG
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl window:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.PNG
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl window:phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd techoExterior.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00

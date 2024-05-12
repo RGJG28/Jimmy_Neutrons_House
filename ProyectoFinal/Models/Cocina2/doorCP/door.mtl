@@ -1,0 +1,23 @@
+newmtl door:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco.PNG
+Ni 1.00
+newmtl door:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd dorado.PNG
+Ni 1.00
+newmtl door:phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pilarVerde.PNG
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
