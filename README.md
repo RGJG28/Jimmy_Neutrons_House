@@ -14,7 +14,8 @@ Es importante que el usuario cuente con las siguientes bibliotecas:
 - MSVCP140D.dll
 - ucrtbased.dll
 - VCRUNTIME140D.dll
-las cuales se incluyen en el paquete redistribuible de Microsoft Visual C++, el cual puedes descargar desde el siguiente link:
+Las cuales se incluyen en el paquete redistribuible de Microsoft Visual C++, el cual puedes descargar desde el siguiente link:
+
 [Paquete C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
 ## Instrucciones
@@ -45,9 +46,12 @@ Desarrollar este proyecto representó un desafío para mí. La falta de planos d
 Fachada:
 ![Fachada](https://github.com/RGJG28/Jimmy_Neutrons_House/blob/main/Images/house.png)
 Cuarto deJN:
+
 ![JN1](https://github.com/RGJG28/Jimmy_Neutrons_House/blob/main/Images/Jimmys_room_01.png)
 ![JN2](https://github.com/RGJG28/Jimmy_Neutrons_House/blob/main/Images/Jimmys_room_02.png)
+
 Cocina:
+
 ![Cocina1](https://github.com/RGJG28/Jimmy_Neutrons_House/blob/main/Images/kitchen_01.png)
 ![Cocina2](https://github.com/RGJG28/Jimmy_Neutrons_House/blob/main/Images/kitchen_02.png)
 ### Planos
