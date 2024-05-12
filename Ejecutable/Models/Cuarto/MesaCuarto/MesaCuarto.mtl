@@ -1,0 +1,29 @@
+newmtl MesaCuarto:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MesaCuarto:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroMesa.png
+Ni 1.00
+newmtl MesaCuarto:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd negroMesa.png
+Ni 1.00
+newmtl MesaCuarto:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grisCama.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00

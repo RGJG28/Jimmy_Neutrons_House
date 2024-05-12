@@ -1,0 +1,27 @@
+newmtl sillaDesk:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd respaldoSilla.png
+Ni 1.00
+newmtl sillaDesk:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ruedasSilla.png
+Ni 1.00
+newmtl sillaDesk:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pistonSillaMetal.png
+Ni 1.00
+newmtl sillaDesk:pasted__lambert7SG4
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
