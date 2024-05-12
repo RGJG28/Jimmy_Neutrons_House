@@ -14,6 +14,7 @@ Es importante que el usuario cuente con las siguientes bibliotecas:
 - MSVCP140D.dll
 - ucrtbased.dll
 - VCRUNTIME140D.dll
+
 Las cuales se incluyen en el paquete redistribuible de Microsoft Visual C++, el cual puedes descargar desde el siguiente link:
 
 [Paquete C++](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
